@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @glovadsanthornpyrr.
+- 👋 Hi, I’m @glovadsanthornpyrr
 - 👀 I’m interested in fastai-v3
 - 🌱 I’m currently learning fastai-v5.
 - 💞️ I’m looking to collaborate on star
